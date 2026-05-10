@@ -1,0 +1,4 @@
+// nestjs ignores pls
+node_modules
+dist
+.env
